@@ -1,0 +1,13 @@
+[package]
+name = "clsx-r"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chibuzor Ogbu <chibuzor.ogbu@applure.ca>"]
+description = "A Rust macro utility for conditionally constructing CSS class names. Inspired by JavaScript's clsx."
+license = "MIT"
+repository = "https://github.com/chibuzoro/clsx-r"
+keywords = ["css", "macro", "utility", "clsx"]
+categories = ["web-programming", "development-tools"]
+readme = "README.md"
+documentation = "https://docs.rs/clsx-r"
+exclude = [".github/*", "tests/*"]
